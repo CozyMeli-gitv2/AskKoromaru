@@ -1,2 +1,2 @@
 # AskKoromaru
-Ask Koromaru your deepest and darkest questions, and he will bark a reply back. 
+Joke in progress project, meant to randomly have Koromaru bark in responce to text
